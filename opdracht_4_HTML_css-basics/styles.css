@@ -1,0 +1,13 @@
+body {
+  color: #3b83bd;
+}
+h1 {
+  font-size: 2.5em;
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+.url-link {
+	border: 3px dashed #ccc; }
+}
+#green-background {
+  background-color: #f0cee9;
+}
